@@ -33,4 +33,11 @@ Este repositório reúne desafios e exercícios de lógica desenvolvidos com Pyt
 
 **Identificador de número em string:** O código percorre uma string, extrai os números inteiros que aparecem em sequência e os armazena. Depois, remove os repetidos e imprime a quantidade de números diferentes encontrados.
 
+**Impar e par:** O script percorre uma lista e criar duas novas listas, uma para números pares e outra para impares.
+
+**Rotação de elementos:** O programa percorre uma lista e rotaciona os N ultimos elementos de uma lista e os adiciona no início da lista.
+
+**Lista aninhada:** Lê uma lista com outras listas dentro (lista aninhada) e cria uma nova lista com os valores encontrados na lista aninhada. Ele também ordena a nova lista do menor para o maior com o sorted.
+
+**Bubble sort:** Usa a estrutura de ordenação bubble para ordenar uma lista. 
 
